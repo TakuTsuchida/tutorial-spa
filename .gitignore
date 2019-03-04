@@ -1,0 +1,8 @@
+# python compile file
+*.pyc
+
+# bin, lib, include
+/bin/
+/lib/
+/include/
+
